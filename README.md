@@ -1,6 +1,8 @@
-### Who We Are
+## Fast, Thorough, Friendly
 
 We are a team of scientists whose native language is English and who have extensive experience writing and publishing scientific papers to international English-language journals. Based throughout Asia, we have years of experience helping our clients get their papers accepted to the most prestigious international journals and conferences by offering fast and thorough English-language proofreading services.
+
+### Who We Are
 
 **Eliot Wycoff**
 
