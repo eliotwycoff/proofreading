@@ -1,12 +1,12 @@
 ## Fast, Thorough, Friendly
 
-We are a team of scientists whose native language is English and who have extensive experience writing and publishing scientific papers to international English-language journals. Based throughout Asia, we have years of experience helping our clients get their papers accepted to the most prestigious international journals and conferences by offering fast and thorough English-language proofreading services.
+We are a team of English-speaking scientists with years of experience helping our clients get their papers accepted to international English-language journals by offering fast and thorough proofreading services.
 
 ### Who We Are
 
 **Eliot Wycoff**
 
-Eliot graduated from Columbia University in 2011 with a degree in Applied Mathematics. He worked as a software engineer and researcher for three years in Singapore and the US before moving to China where he enrolled in a Masters of Translation and Interpretation program at Sichuan University. He has proofread hundreds of scientific papers and academic theses, helping countless clients achieve their professional and academic goals.
+Eliot graduated as an engineer from Columbia University and worked as a researcher in Singapore and the US before moving to China to pursue a masters degree in English-Mandarin Translation and Interpretation. He has proofread hundreds of scientific papers, helping countless clients to achieve their professional and academic goals.
 
 ### Proofreading Workflow
 
