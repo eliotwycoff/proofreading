@@ -2,7 +2,7 @@
 
 We are a team of English-speaking scientists with years of experience helping our clients get their papers accepted to international English-language journals by offering fast and thorough proofreading services.
 
-### Who We Are
+### Our Team
 
 **Eliot Wycoff**
 
