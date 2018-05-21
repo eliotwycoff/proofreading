@@ -10,8 +10,14 @@ Eliot graduated as an engineer from Columbia University and worked as a research
 
 ### Proofreading Workflow
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eliotwycoff/proofreading/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Contact us by email or WeChat, and include an MS Word copy of your paper.
+2. We will make revisions to your paper using Track Changes. As a rule of thumb, we will not change your voice, but we _will_ correct grammar, syntax and spelling mistakes.
+3. If you have any questions about the revisions, we will happily answer them and make further minor adjustments, as necessary.
+
+### Payment
+
+We charge USD $25 per thousand English words (as counted by MS Word) and can accept payment in US dollars or Chinese yuan.
 
 ### Contact Us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have any questions? Send us an email at (EMAIL ADDRESS).
