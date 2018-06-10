@@ -6,7 +6,11 @@ We are a team of English-speaking scientists with years of experience helping ou
 
 **Eliot**
 
-Eliot graduated as an engineer from Columbia University and worked as a researcher in Singapore before moving to China to pursue a masters degree in English-Mandarin Translation and Interpretation. He has proofread hundreds of scientific papers, helping countless clients to achieve their professional and academic goals.
+Eliot graduated as an engineer from Columbia University and worked as a researcher in Singapore before moving to China to pursue a masters degree in English-Mandarin Translation and Interpretation. He has authored papers appearing in international  journals like IEEE Transactions on Signal Processing and ICASSP and has proofread hundreds of scientific papers, helping countless clients to get published at their conferences and journals of choice. 
+
+**Gavin**
+
+Gavin did his PhD in Singapore and is now a full-time professor at a top tier univeristy in China. He is an expert on computer vision and machine learning, with over 50 papers published at top tier journals and conferences in computer vision and machine learning, including CVPR, ICCV, ECCV, ICML, NIPS, TPAMI, IJCV and TNNLS. His work has been cited over 3000 times. His students now work at top companies in China, including Baidu, Alibaba, Tencent etc.
 
 ### Proofreading Workflow
 
