@@ -4,7 +4,7 @@ We are a team of English-speaking scientists with years of experience helping ou
 
 ### Our Team
 
-**Eliot Wycoff**
+**Eliot**
 
 Eliot graduated as an engineer from Columbia University and worked as a researcher in Singapore before moving to China to pursue a masters degree in English-Mandarin Translation and Interpretation. He has proofread hundreds of scientific papers, helping countless clients to achieve their professional and academic goals.
 
